@@ -16,6 +16,7 @@ list_of_files=[
     f"src/{package_name}/logger.py",
     f"src/{package_name}/exception.py",
     f"src/{package_name}/utils/__init__.py",
+    "src/utils/utils.py",
     "tests/unit/__init__.py",
     "tests/integraton/__init__",
     "notebooks/research.ipynb",
